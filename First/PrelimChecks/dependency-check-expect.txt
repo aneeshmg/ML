@@ -1,0 +1,7 @@
+Python: 2.7.11 (default, Mar  1 2016, 18:40:10)
+[GCC 4.2.1 Compatible Apple LLVM 7.0.2 (clang-700.1.81)]
+scipy: 0.17.0
+numpy: 1.10.4
+matplotlib: 1.5.1
+pandas: 0.17.1
+sklearn: 0.18.1
